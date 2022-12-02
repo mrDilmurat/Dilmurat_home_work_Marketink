@@ -1,0 +1,15 @@
+html {
+  font-size: 16px;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  /*font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;*/
+  font-size: 16px;
+  font-weight: 300;
+  background-color: #fff;
+  min-width: 320px;
+  color: #000;
+}
+
+
